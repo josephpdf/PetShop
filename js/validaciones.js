@@ -40,7 +40,7 @@ const mensajesDeError = {
   },
   numero: {
     valueMissing: "Este campo no puede estar vacío",
-    patternMismatch: "El formato requerido es XXXXXXXXXX 10 números",
+    patternMismatch: "El formato requerido es XXXXXXXX 8 números",
   },
   direccion: {
     valueMissing: "Este campo no puede estar vacío",
